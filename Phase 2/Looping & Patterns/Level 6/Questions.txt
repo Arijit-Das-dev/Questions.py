@@ -5,4 +5,11 @@ Code:
 * * * *
 * * * *
 
-2
+2. Print an Increasing Triangle of Stars
+* 
+* * 
+* * * 
+* * * * 
+* * * * *
+
+3. 
