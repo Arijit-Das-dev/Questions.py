@@ -12,4 +12,4 @@ Code:
 * * * * 
 * * * * *
 
-3. 
+3. Print a Right-Aligned Triangle of Stars
