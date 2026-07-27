@@ -1,3 +1,10 @@
+# 4. Print a Right-Aligned Triangle of numbers
+#         1 
+#       2 1 
+#     3 2 1 
+#   4 3 2 1 
+# 5 4 3 2 1
+
 rows = 5
 
 for i in range(1, rows+1):
