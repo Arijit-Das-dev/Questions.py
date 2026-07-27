@@ -13,3 +13,8 @@ Code:
 * * * * *
 
 3. Print a Right-Aligned Triangle of Stars
+         * 
+       * * 
+     * * * 
+   * * * * 
+ * * * * *
